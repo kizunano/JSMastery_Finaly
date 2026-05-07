@@ -1,0 +1,13 @@
+:root {
+    --bg-primary: conic-gradient(from -1.54deg at 28.99% 107.28%, #191817 0deg, #37312A 175.51deg, #191817 342.49deg, #191817 360deg);
+    --bg-secondary: #21201E;
+    --text-color: #fff;
+    --btn-bg-color: #6100C2;
+    --btn-text-color: #fff;
+    --card-text-color: #000;
+    --bg-gradient: linear-gradient(to right, #fff, #ffffff00);
+    --border: 1px solid #969696;
+}
+
+
+/* .dark-theme {} */

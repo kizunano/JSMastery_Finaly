@@ -1,0 +1,14 @@
+{
+    "name":"гребанный тазик",
+    "short_name":"тазик",
+    "description":"common, мистер fish, this a good plase.",
+     "display":"standalone",
+     "background_color":" #21201E",
+     "theme_color":" #21201E",
+     "orientation":"landscape",
+     "icons":[{
+        "scr":"icon.png",
+        "sizes":"96x106",
+        "type":"image/png"
+     }]
+}
